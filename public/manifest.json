@@ -1,6 +1,6 @@
 {
-    "short_name": "Weather App",
-    "name": "Weather App PWA",
+    "short_name": "Ai News",
+    "name": "Progressive Ai News App",
     "icons": [
         {
             "src": "/images/favicon.png",
@@ -11,7 +11,7 @@
         {
             "src": "/images/logo.png",
             "type": "image/png",
-            "sizes": "1024x1024",
+            "sizes": "512x512",
             "purpose": "any"
         }
     ],
